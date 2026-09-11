@@ -1,0 +1,23 @@
+# Estado de publicación
+
+- Recurso: SOBESAN Movilidad Free
+- Versión: V1
+- Estado: PRODUCTION QA PASS
+- URL definitiva: https://sobesan-movilidad-free.vercel.app/
+- Plataforma: Vercel
+- Proyecto Vercel: `sobesan-movilidad-free`
+- Deployment: `dpl_EZ7y1BjXsiSNLrtsYE9rRHpouqEG`
+- Commit: `ad66bd42046fd9abfcda2fe704b62181541ec827`
+- Publicado: 2026-09-11
+- Flujo completo: PASS
+- Progreso local y recarga: PASS
+- Mobile 390 × 844: PASS
+- Imágenes: PASS
+- Overflow horizontal: NO
+- Errores de navegador/framework: 0
+- Tests: 6/6 PASS
+- Build: PASS
+- QR vigente: `publication/SOBESAN_MOVILIDAD_FREE_QR_VERCEL.png`
+- QR anterior `chatgpt.site`: SUPERSEDED — DO NOT USE
+- Malvín modificado: NO
+- EMPP modificado: NO
